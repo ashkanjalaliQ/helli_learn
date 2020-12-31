@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>روند ترجمه on </title>
-    <link>ashkanjalaliq.github.io/helli_learn/translate/</link>
+    <link>https://ashkanjalaliq.github.io/helli_learn/translate/</link>
     <description>Recent content in روند ترجمه on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fa-ir</language><atom:link href="ashkanjalaliq.github.io/helli_learn/translate/index.xml" rel="self" type="application/rss+xml" />
+    <language>fa-ir</language><atom:link href="https://ashkanjalaliq.github.io/helli_learn/translate/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

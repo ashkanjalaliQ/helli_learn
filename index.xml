@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>درباره ما on </title>
-    <link>https://ashkanjalaliq.github.io/helli_learn/about/</link>
-    <description>Recent content in درباره ما on </description>
+    <title></title>
+    <link>https://ashkanjalaliq.github.io/helli_learn/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fa-ir</language><atom:link href="https://ashkanjalaliq.github.io/helli_learn/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>fa-ir</language>
+    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ashkanjalaliq.github.io/helli_learn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
